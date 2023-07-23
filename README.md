@@ -1,2 +1,1 @@
-# simple-chatbot
-Simple chatbot by ABAnusara
+The application will provide a user-friendly interface for managing college inquiries, including storing and retrieving data from an SQLite database. Tkinter will be utilized for creating the graphical user interface, while Python will handle the backend logic and database operations. The system aims to streamline the process of handling college inquiries efficiently.
